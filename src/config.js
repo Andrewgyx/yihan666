@@ -7,7 +7,7 @@ const config = {
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
+	avatar: "https://s41.ax1x.com/2026/02/25/pZxiYiq.png", // 头像
 	welcometitle: "Hi, I'm yihan", // 标题
 
 	// 颜色配置
@@ -139,16 +139,16 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "抖音", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://v.douyin.com/In-G5Itu6Ns/ 2@8.com", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "企鹅社交", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "微博", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "微信", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "h111", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "贴吧", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "哔哩哔哩", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://b23.tv/G4QyifC", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "社交", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "游戏", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "哔哩哔哩", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://b23.tv/G4QyifC", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "相册", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "生活", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "和她", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "游戏日常", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "h11", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "日常", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "h11", show: false },
 	],
 
-	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
+	statement: ["备案号：XXICP备123456789号", "Copyright © 2026 yihan"],
 }
 
 export default config
