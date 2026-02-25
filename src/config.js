@@ -8,7 +8,7 @@ const config = {
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "Hi, I'm yihan", // 标题
 
 	// 颜色配置
 	color: {
@@ -53,12 +53,12 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-github", link: "还没公开" },
+		{ icon: "mdi-email", link: "还没公开m" },
+		{ icon: "mdi-qqchat", link: "还没公开" },
+		{ icon: "mdi-wechat", link: "还没公开" },
+		{ icon: "mdi-youtube", link: "还没公开" },
+		{ icon: "mdi-facebook", link: "还没公开" }
 	],
 
 	//打字机
@@ -138,14 +138,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "抖音", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://v.douyin.com/In-G5Itu6Ns/ 2@8.com", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "企鹅社交", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "微博", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "微信", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "h111", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "贴吧", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "哔哩哔哩", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://b23.tv/G4QyifC", show: false },
+		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "和她", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "111", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "游戏日常", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "h11", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
